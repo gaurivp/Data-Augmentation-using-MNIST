@@ -1,7 +1,0 @@
-This project utilizes the MNIST dataset for the implementation of data augmentation and convolutional neural network. The MNIST dataset is a database of images of handwritten digits ranging from 0 to 9. It is a dataset which
-is a subset of a much larger dataset NIST. The training samples in this dataset amount up to 60,000 while there are 10,000 test samples. The digits are normalized, and the size has been initialized to 28x28. This dataset is publicly 
-available on the link which is provided here.
-
-http://yann.lecun.com/exdb/mnist/ 
-
-
